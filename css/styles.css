@@ -133,6 +133,7 @@ img {
 /* Hero */
 
 .hero {
+  padding: 200px 0;
   background-color: var(--secondary-bg-color);
 }
 
